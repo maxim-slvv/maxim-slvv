@@ -1,5 +1,5 @@
 
-<h3>:heavy_check_mark: Мой стек</h3>
+<h3>:doughnut: Мой стек</h3>
  	
 ![Github Gist stars](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github Gist stars](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
